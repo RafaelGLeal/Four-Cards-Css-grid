@@ -37,11 +37,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
-I had the chance to prictice for the first time the grid layout, i used a very helpful guide from Csstricks, check it out they website [https://css-tricks.com/snippets/css/complete-guide-grid/]
+I had the chance to practice for the first time the grid layout, i used a very helpful guide from Css-tricks, check it out they website [https://css-tricks.com/snippets/css/complete-guide-grid/]
 
 ## Author
 
